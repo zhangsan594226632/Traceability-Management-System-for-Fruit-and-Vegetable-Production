@@ -1,0 +1,2 @@
+# Traceability-Management-System-for-Fruit-and-Vegetable-Production
+【万字文档+源码】基于springboot+vue可追溯果蔬生产过程管理系统 -学习资料分享-此系统设计主要采用的是JAVA语言来进行开发，采用springboot框架技术，框架分为三层，分别是控制层Controller，业务处理层Service，持久层dao，能够采用多层次管理开发，对于各个模块设计制作有一定的安全性；数据库方面主要采用的是MySQL来进行开发，其特点是稳定性好，数据库存储容量大，处理能力快等优势；服务器采用的是Tomcat服务，能够提供稳固的运行平台，确保系统稳定运行，提供了一个多样功能，具有良好实用性的基于web的可追溯果蔬生产过程管理系统。
